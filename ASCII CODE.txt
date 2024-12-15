@@ -1,0 +1,32 @@
+    
+
+                                                                     ASCII
+
+
+                  (American Standard Code for Information Interchange) is a system that assigns a unique number to eachcharacter  
+               
+
+                                                                                    
+                                  letters, numbers, and symbols, so computers can store and communicate text  .
+                                                                                            
+                                   For example, the letter A is represented by the number 65 in ASCII                         .
+
+
+
+
+ASCII code (American Standard Code for Information Interchange) is a standard system used in computers and electronic devices to represent text and symbols.
+                        
+    It assigns a unique number (from 0 to 127) to each character, such as letters, digits, punctuation marks, and control signals.
+                                                                    
+                                                                       These numbers are used by computers to process and store text as numerical data                     .
+
+
+
+For example:
+•	A → 65
+•	a → 97
+•	0 → 48
+ASCII forms the basis of modern text encoding and is widely used in programming, data formats, and communication protocols
+
+.
+ 
